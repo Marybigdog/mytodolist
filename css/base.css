@@ -152,3 +152,29 @@ textarea{
 .task-detail input[type=date]{
 	height: 39px;
 }
+/******************************************************/
+.anchor {
+    cursor: pointer;
+}
+
+.alerter {
+    width: 0;
+    height: 0;
+}
+
+.action {
+    color: #888;
+    font-size: 90%;
+}
+
+.action:hover {
+    color: #333;
+}
+
+.msg {
+    display: none;
+    text-align: center;
+    background: #ffe264;
+    padding: 10px;
+    color: #333;
+}
