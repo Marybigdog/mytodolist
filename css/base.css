@@ -12,7 +12,7 @@
 }
 
 body {
-    background: #09b19b;
+    background: rgba(44, 93, 104, .97);
     color: #fff;
 }
 
@@ -85,14 +85,13 @@ input[type=date]:focus {
 button {
     display: inline-block;
     cursor: pointer;
-    background: #dedc7d;
+    background: #dc9090;
     color: #333;
 }
 
-
 .add-task input[type=text] {
     float: left;
-    width: 84%;
+    width: 90%;
     margin-right: 1%;
 }
 
